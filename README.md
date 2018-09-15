@@ -16,4 +16,7 @@
 
 #### P.S: Exported my active environment with:
     conda env export | grep -v "^prefix: " > environment.yml
+    
+#### Reference:
+[Conda User Guide](https://conda.io/docs/user-guide/getting-started.html)
 
