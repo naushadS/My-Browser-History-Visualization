@@ -5,7 +5,7 @@
      $ conda env create -f environment.yml
 
 #### 2. Verify that the new environment was installed correctly:
-     $ conda list
+     $ conda env list
 
 #### 3. Activate the new environment:
     Windows: activate mbhv
