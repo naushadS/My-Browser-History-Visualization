@@ -132,5 +132,4 @@ dependencies:
     - tldextract==2.2.0
     - urllib3==1.23
     - wordcloud==1.5.0
-prefix: /home/naushad/anaconda3/envs/mbhv
 
