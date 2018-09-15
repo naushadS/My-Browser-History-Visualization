@@ -42,8 +42,8 @@ mistune==0.8.3
 mkl_fft==1.0.2
 mkl_random==1.0.1
 msgpack==0.5.6
-nb-conda==2.2.1
-nb-conda-kernels==2.1.0
+nb_conda==2.2.1
+nb_conda_kernels==2.1.0
 nbconvert==5.3.1
 nbformat==4.4.0
 notebook==5.6.0
@@ -59,7 +59,7 @@ pickleshare==0.7.4
 Pillow==5.2.0
 pipreqs==0.4.9
 prometheus-client==0.3.1
-prompt-toolkit==1.0.15
+prompt_toolkit==1.0.15
 psutil==5.4.7
 ptyprocess==0.6.0
 pyasn1==0.4.4
