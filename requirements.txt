@@ -39,8 +39,8 @@ locket==0.2.0
 MarkupSafe==1.0
 matplotlib==2.2.3
 mistune==0.8.3
-mkl-fft==1.0.4
-mkl-random==1.0.1
+mkl_fft==1.0.4
+mkl_random==1.0.1
 msgpack==0.5.6
 nb-conda==2.2.1
 nb-conda-kernels==2.1.0
